@@ -9,6 +9,6 @@ pillow
 scikit-learn
 scipy
 joblib
-pickle
+pickle5
 dtreeviz
-plotly
+
