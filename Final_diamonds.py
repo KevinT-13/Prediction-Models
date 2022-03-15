@@ -488,9 +488,9 @@ def main():
             # st.pyplot()
 
             st.subheader('Total Cost of Diamonds per Year')
-            st.image('dying.png')
+            st.image('lin_totals.png')
             st.subheader('Trend of Wholesale Diamond Prices')
-            st.image('deadM.png')
+            st.image('lin_graph.png')
 
             st.markdown("""---""")
 
@@ -709,10 +709,12 @@ def main():
 
         st.subheader("Hey, I am Kevin Troncoso :star:")
         st.markdown('''
-             I am a first-generation student studying at Bentley University to become a data analytics professional. A fun fact about me is that I am of Dominican descent and love painting. In terms of what interests me, I enjoy learning about statistics and have a side interest in business intelligence. \n
+             I am a first-generation student studying at Bentley University to become a data analytics professional. A fun fact about me is that I am of Dominican descent and love painting. In terms of what interests me, I enjoy learning about statistics and have a side interest in business intelligence.
+             As for my involvement in the project, I helped with determining which model to use for the prediction of wholesale diamond prices and assisted with portions of the streamlit coding. 
+             In particular, my main focus was on achieving a plausible/functioning linear model for the data—which included transformations and analysis of machine learning terms—and determining its usability and accuracy compared to other models.\n
 
               Also check my Social Media:
-              - [LinkedIn:](https://www.linkedin.com/in/eduardo-s%C3%A1-73b76286)
+              - [LinkedIn:](https://www.linkedin.com/in/kevintroncoso/)
               - [Medium:](https://medium.com/hack-diversity-movement/cohort-stories-meet-kevin-t-674db5c2dad)
                ''')
         st.subheader("1) Describe what you contributed (briefly) and how that helped the final product?")
