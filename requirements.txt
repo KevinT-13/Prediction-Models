@@ -3,7 +3,6 @@ pandas
 plotly.express
 plotly
 numpy
-matplotlib.pyplot
 matplotlib
 seaborn
 PIL
