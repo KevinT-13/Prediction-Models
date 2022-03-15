@@ -5,7 +5,7 @@ plotly
 numpy
 matplotlib
 seaborn
-PIL
+pillow
 sklearn.ensemble
 sklearn
 scipy
